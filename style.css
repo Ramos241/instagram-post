@@ -1,0 +1,40 @@
+*{
+    border: 1px solid red;
+}
+body{
+    background-color: black;
+ }
+.container-post{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+}
+.heard, .heard-lefth{
+    display: flex;
+    justify-content: space-between;
+}
+.logo, .puntos{
+    margin: 10px;
+    font-size: 2rem;
+}
+.letras{
+    margin-top: 10px;
+}
+.img > img{
+    width: 100%;
+}
+.iconos{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+.iconos-lefth, .iconos-raigth{
+    margin: 10px;
+}
+.parrafos{
+    padding-left: 10px;
+}
+p{
+    padding-bottom: 10px;
+}
+
